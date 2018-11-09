@@ -28,8 +28,6 @@ Sample Usage:
            open={this.state.open}
            layout={myLayout}
            closeOnTapOutside={false}   //Default is true
-           left={true}/>
-
-           // add the left prop to open the drawer from the left side of the                   // screen, the default is right.
+           left={true}/>               // add this to open the drawer from the left side
       )
     }
