@@ -1,0 +1,32 @@
+{
+  "name": "react-native-sliding-drawer",
+  "version": "2.0.2",
+  "description": "A sliding drawer for your react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzisolomon/react-native-sliding-drawer.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-drawer",
+    "react-native-sliding-drawer",
+    "drawer",
+    "sliding",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "Izzi Solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/izzisolomon/react-native-sliding-drawer/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "homepage": "https://github.com/izzisolomon/react-native-sliding-drawer#readme"
+}
