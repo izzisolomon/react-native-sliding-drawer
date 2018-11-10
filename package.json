@@ -1,6 +1,6 @@
 {
   "name": "react-native-sliding-drawer",
-  "version": "2.0.2",
+  "version": "1.0.1",
   "description": "A sliding drawer for your react native app",
   "main": "index.js",
   "scripts": {

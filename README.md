@@ -1,6 +1,6 @@
 # react-native-sliding-drawer
 
-A drwer component for your react-native application.
+A drawer component for your react-native application.
 
 To Download, run: yarn add react-native-sliding-drawer, or npm install -s react-native-sliding-drawer.
 
